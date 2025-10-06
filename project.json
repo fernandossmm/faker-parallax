@@ -1,0 +1,113 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Faker - The Unkillable Demon King\n\nRevive the journey of Faker with a parallax wallpaper full of references to the game and its history.\n\nIt's movement is highly customizable: You can sync it with your system clock; or make it move faster, as you wish.\n\nThe images were taken from the Hall of Legends event pass background in the League of Legends client.\n\nTags: web, 2K, 4K, 8K, League of Legends, Faker, Parallax, 24h",
+	"file" : "main.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"endhour" : 
+			{
+				"condition" : "syncwithclock.value == true",
+				"fraction" : false,
+				"index" : 3,
+				"max" : 24,
+				"min" : 0,
+				"order" : 103,
+				"text" : "End hour",
+				"type" : "slider",
+				"value" : 22
+			},
+			"foreground" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "Foreground",
+				"type" : "bool",
+				"value" : true
+			},
+			"pausetime" : 
+			{
+				"condition" : "syncwithclock.value == false",
+				"fraction" : false,
+				"index" : 5,
+				"max" : 300,
+				"min" : 0,
+				"order" : 105,
+				"text" : "Pause time (s)",
+				"type" : "slider",
+				"value" : 10
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.6666666666666666 0.5686274509803921 0.23529411764705882"
+			},
+			"starthour" : 
+			{
+				"condition" : "syncwithclock.value == true",
+				"fraction" : false,
+				"index" : 2,
+				"max" : 24,
+				"min" : 0,
+				"order" : 102,
+				"text" : "Start hour",
+				"type" : "slider",
+				"value" : 8
+			},
+			"syncwithclock" : 
+			{
+				"index" : 1,
+				"order" : 101,
+				"text" : "Sync with clock",
+				"type" : "bool",
+				"value" : true
+			},
+			"travelmode" : 
+			{
+				"condition" : "syncwithclock.value == false",
+				"index" : 6,
+				"options" : 
+				[
+					{
+						"label" : "Go forwards once",
+						"value" : "0"
+					},
+					{
+						"label" : "Go forwards repeatedly",
+						"value" : "1"
+					},
+					{
+						"label" : "Go back and forth",
+						"value" : "2"
+					}
+				],
+				"order" : 106,
+				"text" : "Travel mode",
+				"type" : "combo",
+				"value" : "2"
+			},
+			"traveltime" : 
+			{
+				"condition" : "syncwithclock.value == false",
+				"fraction" : false,
+				"index" : 4,
+				"max" : 3600,
+				"min" : 5,
+				"order" : 104,
+				"text" : "Travel time (s)",
+				"type" : "slider",
+				"value" : 60
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Game" ],
+	"title" : "Hall of Legends - Faker",
+	"type" : "web",
+	"version" : 0
+}

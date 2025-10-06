@@ -1,0 +1,56 @@
+/* CSS Variables
+  ---------------------------------------------- */
+  :root {
+    /* --animation-duration: 72000s; 
+    --animation-pause: 14400s; */
+    --animation-duration: 10s; 
+    --animation-pause: 10s;
+    
+    --base-delay: -0s;
+    
+    --foreground-visibility: visible;
+  }
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(197, 217, 255);
+  overflow-x: hidden;
+  margin: 0;
+}
+
+img {
+  height: 100vh;
+  width: auto;
+  display: block;
+}
+
+.content {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  transform-box: fill-box;
+}
+
+.background {
+  z-index: 0;
+}
+
+.midground {
+  z-index: 1;
+}
+
+.foreground {
+  z-index: 2;
+  visibility: var(--foreground-visibility);
+}
