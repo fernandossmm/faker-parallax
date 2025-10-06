@@ -22,7 +22,7 @@
 ## How to use
 - Buy and download [Wallpaper Engine](https://www.wallpaperengine.io/en)
 - Go to [this link](https://steamcommunity.com/sharedfiles/filedetails/?id=3276493725), and click Subscribe
-- Edit the configuration to your liking.
+- Edit the configuration to your liking
 
 ## How to download and edit
 - Clone this repository
@@ -38,11 +38,3 @@ This project is actively maintained, feel free to ask for help or to contribute!
 
 ## License
 Copyright Fernando SSMM (programming) and Riot games (art), 2025. All rights reserved.
-
-
-
-
-
-
-
-
