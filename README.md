@@ -4,12 +4,13 @@
   <br>
 </h1>
 
-### A dynamic desktop wallpaper built for Wallpaper Engine, celebrating Faker's Hall of Legends inclusion
-
+### A dynamic desktop wallpaper built for Wallpaper Engine, celebrating [Faker's Hall of Legends inclusion](https://lolesports.com/en-GB/news/lol-esports-welcomes-faker-to-hall-of-legends)
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3276493725"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-steam-workshop.jross.me%2F3276493725%2Fsubscriptions-text&style=flat" alt="Steam Workshop downloads"></a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 <div align="center">
-	<p>A dynamic desktop wallpaper built for WallpaperEngine, celebrating Faker's Hall of Legends inclusion</p>
+	<img height="540" alt="imagen" src="https://github.com/user-attachments/assets/b694d83c-db0f-4992-99a7-a2eb5cbc82c3" />
+	<p>A dynamic desktop wallpaper built for Wallpaper Engine, celebrating Faker's Hall of Legends inclusion</p>
 </div>
 
 ## Features
@@ -19,8 +20,8 @@
 - Or make it move faster to your liking.
 
 ## How to use
-- Buy and download Wallpaper Engine
-- Go to this link, and click Subscribe
+- Buy and download [Wallpaper Engine](https://www.wallpaperengine.io/en)
+- Go to [this link](https://steamcommunity.com/sharedfiles/filedetails/?id=3276493725), and click Subscribe
 - Edit the configuration to your liking.
 
 ## How to download and edit
