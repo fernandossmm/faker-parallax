@@ -10,7 +10,7 @@
 
 <div align="center">
 	<img height="540" alt="imagen" src="https://github.com/user-attachments/assets/b694d83c-db0f-4992-99a7-a2eb5cbc82c3" />
-	<p>A dynamic desktop wallpaper built for Wallpaper Engine, celebrating Faker's Hall of Legends inclusion</p>
+	<p>A dynamic desktop wallpaper built for Wallpaper Engine, celebrating <a href=https://lolesports.com/en-GB/news/lol-esports-welcomes-faker-to-hall-of-legends>Faker's Hall of Legends inclusion</a></p>
 </div>
 
 ## Features
